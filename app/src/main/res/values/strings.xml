@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ElApp</string>
+    <string name="Imprimir">Button</string>
+    <string name="Button">Imprimir</string>
+    <string name="textview">Hola Juan</string>
+    <string name="EditText">Texto Editable</string>
+    <string name="CheckBox">Checkeate</string>
+    <string name="Boton">Regresa</string>
+    <string name="button">Enviar Whatsapp</string>
+</resources>
