@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnHola
+id button
+id button2
+id cajaNum
+id calendarView
+id checkBox
+id imageButton
+id main
+id textView
+id txtHola
+layout activity_main
+layout activity_main2
+mipmap ic_launcher
+mipmap ic_launcher_round
+string Boton
+string Button
+string CheckBox
+string EditText
+string Imprimir
+string app_name
+string button
+string textview
+style Base.Theme.ElApp
+style Theme.ElApp
+xml backup_rules
+xml data_extraction_rules
