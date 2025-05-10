@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Boton">Regresa</string>
+    <string name="Button">Imprimir</string>
+    <string name="CheckBox">Checkeate</string>
+    <string name="EditText">Texto Editable</string>
+    <string name="Imprimir">Button</string>
+    <string name="app_name">ElApp</string>
+    <string name="button">Enviar Whatsapp</string>
+    <string name="textview">Hola Juan</string>
+    <style name="Base.Theme.ElApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.ElApp" parent="Base.Theme.ElApp"/>
+</resources>
